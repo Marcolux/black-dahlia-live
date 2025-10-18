@@ -2,9 +2,9 @@ import { Routes, Route } from 'react-router-dom';
 
 import NavigationBar from './components/NavigationBar/NavigationBar';
 import NavigationBarSmallScreen from './components/NavigationBarSmallScreen/NavigationBarSmallScreen';
-import HomePage from './pages/HomePage';
-import Page2 from './pages/Page2';
-import Page1 from './pages/Page1';
+import HomePage from './pages/HomePage/HomePage';
+// import Page2 from './pages/Page2';
+// import Page1 from './pages/Page1';
 
 import Footer from './components/Footer/Footer';
 
@@ -37,11 +37,11 @@ function App() {
       
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/Carousels" element={<Page1 />} />
-        <Route path="/page_2" element={<Page2 />} />
+        {/* <Route path="/Carousels" element={<Page1 />} />
+        <Route path="/page_2" element={<Page2 />} /> */}
       </Routes>
 
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }
