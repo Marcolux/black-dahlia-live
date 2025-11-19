@@ -16,7 +16,7 @@ const NavigationBarSmallScreen = () => {
     })
 
     return (
-        <>
+        <div className="hide">
             <div className='hambContainer' onClick={toggleLogic}>
                 <div className={isExpanded  ? 'hamburger-menu openHam':'hamburger-menu'}>
                     <div className="bar" id="bar1"></div>
@@ -37,7 +37,7 @@ const NavigationBarSmallScreen = () => {
                 ) : null
             )}
             
-        </>
+        </div>
     )
 }
 
