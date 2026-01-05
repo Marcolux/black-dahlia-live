@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fee7901.css",
-    "main.js": "/static/js/main.c84004a2.js",
+    "main.css": "/static/css/main.3e50ec79.css",
+    "main.js": "/static/js/main.95bf9e21.js",
     "static/js/453.a85ed1fb.chunk.js": "/static/js/453.a85ed1fb.chunk.js",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.f55558447983dc135e34.ttf",
+    "static/media/Bellota-Regular.ttf": "/static/media/Bellota-Regular.a9ebc936b99dd54a4df9.ttf",
+    "static/media/BellotaText-Regular.ttf": "/static/media/BellotaText-Regular.f71f4a56a427635b1872.ttf",
     "static/media/september-script.regular.ttf": "/static/media/september-script.regular.357314c66c7fd92cf74c.ttf",
     "static/media/Merriweather-Regular.ttf": "/static/media/Merriweather-Regular.da67ca8c38ef44c4773d.ttf",
     "static/media/Prata-Regular.ttf": "/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
     "static/media/Bison-Bold.ttf": "/static/media/Bison-Bold.0ec7f8e68fac9f1c4eef.ttf",
     "static/media/Ledger-Regular.ttf": "/static/media/Ledger-Regular.af758062fdcbe3027bfd.ttf",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Aboreto-Regular.ttf": "/static/media/Aboreto-Regular.7c5655d7b7541650e02d.ttf",
+    "static/media/mandala_dahlia.svg": "/static/media/mandala_dahlia.8774558cd84306a0e352dd13b4834e15.svg",
     "index.html": "/index.html",
-    "main.2fee7901.css.map": "/static/css/main.2fee7901.css.map",
-    "main.c84004a2.js.map": "/static/js/main.c84004a2.js.map",
+    "static/media/Arrow 23.svg": "/static/media/Arrow 23.2c6dc888eb421d777b731960e7a40f2b.svg",
+    "static/media/vector_home_page.svg": "/static/media/vector_home_page.c3d2a58a069ba6b2fcb523a5bf419083.svg",
+    "static/media/circlesSmScreen.svg": "/static/media/circlesSmScreen.a31eea6a907733831add29decce9dfc6.svg",
+    "main.3e50ec79.css.map": "/static/css/main.3e50ec79.css.map",
+    "main.95bf9e21.js.map": "/static/js/main.95bf9e21.js.map",
     "453.a85ed1fb.chunk.js.map": "/static/js/453.a85ed1fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fee7901.css",
-    "static/js/main.c84004a2.js"
+    "static/css/main.3e50ec79.css",
+    "static/js/main.95bf9e21.js"
   ]
 }
